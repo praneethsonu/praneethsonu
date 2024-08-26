@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @praneethsonu aka (Praneeth Bhandwalkar)
 - 👀 I’m interested in cloud computing and administration, and want to become a solutions architect.
-- 🌱 I’m currently learning engineering in electrical and electronics.
+- 🌱 I’m currently pursuing engineering in electrical and electronics.
 - 💞️ I’m looking to collaborate on cloud Bootcamps and Hackthons.
-- 📫 How to reach me LinkedIn, Instagram
-- 😄 Pronouns: He/Him
+- 📫 How to reach me on LinkedIn, Instagram.
 - ⚡ Fun fact: "By Changing Nothing, Nothing Changes."
 
 <!---
