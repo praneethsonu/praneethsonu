@@ -1,9 +1,12 @@
-# 👋 Hi, I’m @praneethsonu aka (Praneeth Bhandwalkar)
-# 👀 I’m interested in cloud computing and administration, and want to become a solutions architect.
-# 🌱 I’m currently pursuing engineering in electrical and electronics.
-# 💞️ I’m looking to collaborate on cloud Bootcamps and Hackthons.
-# 📫 How to reach me on LinkedIn, Instagram.
-# ⚡ Fun fact: "By Changing Nothing, Nothing Changes."
+# 👋 Hi, I’m Praneeth Sonu aka (Praneeth Bhandwalkar)
+
+Aspiring Cloud Engineer seeking an entry-level position to launch my career in cloud computing. Known Azure, AWS, and GCP Clouds with a strong foundation in cloud architecture, deployment, and maintenance.
+
+Technology languages and tools ⚙️
+![image](https://github.com/user-attachments/assets/5adc457a-68ae-445b-adbd-b19c92a8a6e9)
+![image](https://github.com/user-attachments/assets/5eb14def-e246-49cb-9651-d2a36d9db052)
+![Uploading image.png…]()
+
 
 <!---
 praneethsonu/praneethsonu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
