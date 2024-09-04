@@ -1,4 +1,4 @@
-# 👋Hi, I’m Praneeth aka (Praneeth Bhandwalkar)
+# 👋Hi, I’m Praneeth Bhandwalkar aka (Praneeth Sonu)
 
 Aspiring Cloud Engineer seeking an entry-level position to launch my career in cloud computing. Known Azure, AWS, and GCP Clouds with a strong foundation in cloud architecture, deployment, and maintenance.
 
