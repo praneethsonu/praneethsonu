@@ -3,7 +3,7 @@
 Aspiring Cloud Engineer seeking an entry-level position to launch my career in cloud computing. Known Azure, AWS, and GCP Clouds with a strong foundation in cloud architecture, deployment, and maintenance.
 
 # 💫 About Me:
-🔭 I’m currently working on AWS projects and building them from scratch.<br>👯 I’m looking to collaborate on Internships and boot camps.<br>🌱 I’m currently learning AWS Cloud & Azure Cloud.<br>💬 Ask me about Cloud & A. I.<br>⚡ Fun fact By Changing Nothing, Nothing Changes.
+🔭 I’m currently working on AWS projects and building them from scratch.<br>👯 I’m looking to collaborate on Internships and boot camps.<br>🌱 I’m currently learning AWS Cloud & Azure Cloud.<br>💬 Ask me about Cloud & A. I.<br>⚡ Fun fact: By Changing Nothing, Nothing Changes.
 
 
 ## 🌐 Socials:
