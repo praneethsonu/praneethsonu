@@ -1,6 +1,6 @@
-# 👋Hi, I’m Praneeth Bhandwalkar aka (Praneeth Sonu)
+# 👋Hi, I’m Praneeth!
 
-I am eager to enhance my skills as a Cloud Engineer in a dynamic environment, leveraging strong attention to detail, effective time management, and confident communication to deliver high-quality cloud solutions.
+Hi, I'm Praneeth Bhandwalkar, a Cloud Engineer with a strong problem-solving mindset and a passion for automating cloud infrastructure. and I'm passionate about transforming ideas into scalable solutions.
 
 # 💫 About Me:
 🔭 I’m currently working on AWS projects and building them from scratch.<br>👯 I’m looking to collaborate on Internships and boot camps.<br>💬 Ask me about Cloud & A. I.<br>⚡ Fun fact: By Changing Nothing, Nothing Changes.
