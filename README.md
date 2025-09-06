@@ -22,30 +22,6 @@ Hi, I'm Praneeth Bhandwalkar, a Cloud Engineer with a strong problem-solving min
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Future of Developer Relations - where DevRel is headed?](https://www.youtube.com/shorts/pXAyt8jnDmA)
-- [Run OpenAI Models Locally with Ollama for FREE](https://www.youtube.com/watch?v=8xE7lah8Vz8)
-- [From Cloud Engineer to DevOps Engineer | My Career Journey Without a CS Degree](https://www.youtube.com/watch?v=L7NyYB60MDo)
-- [Future of Developer Education with AI](https://www.youtube.com/shorts/LQwGxZwsRCk)
-- [How I passed Google Cloud Generative AI Leader Exam](https://www.youtube.com/watch?v=RdRVM_I3Rf4)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [FastAPI as AWS Lambda Function](https://blog.rishabkumar.com/fastapi-as-aws-lambda-function)
-- [Deploying Uptime Kuma to GCP using Terraform](https://blog.rishabkumar.com/deploy-uptime-kuma-to-gcp-terraform)
-- [How to Pass the AI-102 Azure AI Engineer Associate Certification](https://blog.rishabkumar.com/pass-ai-102-azure-ai-engineer-associate)
-- [The Digital Thief: How Smartphones Are Robbing Us!](https://blog.rishabkumar.com/how-smartphones-are-robbing-us)
-- [The Cloud Resume API Challenge - Beginner Cloud Project](https://blog.rishabkumar.com/cloud-resume-api-challenge)
-<!-- BLOG-POST-LIST:END -->
-▶️ [more blog posts...](https://blog.rishabkumar.com)
-
 ---
 
 ### My Github Stats 📊
@@ -55,24 +31,3 @@ Hi, I'm Praneeth Bhandwalkar, a Cloud Engineer with a strong problem-solving min
 [![](https://raw.githubusercontent.com/praneethsonu/praneethsonu/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/praneethsonu/praneethsonu/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=praneethsonu&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 <!--
-For future use
-<a href="https://www.instagram.com/hemant.gz/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
--->
-
----
-
-### ✨ My Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/learntocloud/linux-ctfs/issues/47#issuecomment-3259640149) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-2. 🗣 Commented on [#47](https://github.com/learntocloud/linux-ctfs/issues/47#issuecomment-3259522814) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-3. 🎉 Merged PR [#1](https://github.com/rishabkumar7/twilio-cr-byom/pull/1) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
-4. 💪 Opened PR [#1](https://github.com/rishabkumar7/twilio-cr-byom/pull/1) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
-5. 🔒 Closed issue [#1](https://github.com/rishabkumar7/cr-demo-python/issues/1) in [rishabkumar7/cr-demo-python](https://github.com/rishabkumar7/cr-demo-python)
-<!--END_SECTION:activity-->
-
-<br/>
