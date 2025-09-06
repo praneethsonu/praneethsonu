@@ -1,17 +1,78 @@
-# 👋Hi, I’m Praneeth!
+### Hi there I am [Praneeth](https://praneethbhandwalkar.online)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br/>
 
-Hi, I'm Praneeth Bhandwalkar, a Cloud Engineer with a strong problem-solving mindset and a passion for automating cloud infrastructure. and I'm passionate about transforming ideas into scalable solutions.
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=rishabkumar7&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/praneethsonu)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rishabincloud)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneethb2)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/praneeth.s0nu)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@aiSONU20) 
 
-# 💫 About Me:
-🔭 I’m currently working on AWS projects and building them from scratch.<br>👯 I’m looking to collaborate on Internships and boot camps.<br>💬 Ask me about Cloud & A. I.<br>⚡ Fun fact: By Changing Nothing, Nothing Changes.
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/praneeth.s0nu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneethb2/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@aiSONU20) 
+Hi, I'm Praneeth Bhandwalkar, a Cloud Engineer with a strong problem-solving mindset and a passion for automating cloud infrastructure. and I'm passionate about transforming ideas into scalable solutions. 
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
-[![](https://visitcount.itsvg.in/api?id=praneethsonu&icon=5&color=3)](https://visitcount.itsvg.in)
+### Languages and tools ⚙️
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Future of Developer Relations - where DevRel is headed?](https://www.youtube.com/shorts/pXAyt8jnDmA)
+- [Run OpenAI Models Locally with Ollama for FREE](https://www.youtube.com/watch?v=8xE7lah8Vz8)
+- [From Cloud Engineer to DevOps Engineer | My Career Journey Without a CS Degree](https://www.youtube.com/watch?v=L7NyYB60MDo)
+- [Future of Developer Education with AI](https://www.youtube.com/shorts/LQwGxZwsRCk)
+- [How I passed Google Cloud Generative AI Leader Exam](https://www.youtube.com/watch?v=RdRVM_I3Rf4)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [FastAPI as AWS Lambda Function](https://blog.rishabkumar.com/fastapi-as-aws-lambda-function)
+- [Deploying Uptime Kuma to GCP using Terraform](https://blog.rishabkumar.com/deploy-uptime-kuma-to-gcp-terraform)
+- [How to Pass the AI-102 Azure AI Engineer Associate Certification](https://blog.rishabkumar.com/pass-ai-102-azure-ai-engineer-associate)
+- [The Digital Thief: How Smartphones Are Robbing Us!](https://blog.rishabkumar.com/how-smartphones-are-robbing-us)
+- [The Cloud Resume API Challenge - Beginner Cloud Project](https://blog.rishabkumar.com/cloud-resume-api-challenge)
+<!-- BLOG-POST-LIST:END -->
+▶️ [more blog posts...](https://blog.rishabkumar.com)
+
+---
+
+### My Github Stats 📊
+
+[![](https://raw.githubusercontent.com/praneethsonu/praneethsonu/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/praneethsonu/praneethsonu/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/praneethsonu/praneethsonu/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/praneethsonu/praneethsonu/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/praneethsonu/praneethsonu/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=praneethsonu&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+<!--
+For future use
+<a href="https://www.instagram.com/hemant.gz/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://leetcode.com//">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+-->
+
+---
+
+### ✨ My Recent Activity
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#47](https://github.com/learntocloud/linux-ctfs/issues/47#issuecomment-3259640149) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+2. 🗣 Commented on [#47](https://github.com/learntocloud/linux-ctfs/issues/47#issuecomment-3259522814) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+3. 🎉 Merged PR [#1](https://github.com/rishabkumar7/twilio-cr-byom/pull/1) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
+4. 💪 Opened PR [#1](https://github.com/rishabkumar7/twilio-cr-byom/pull/1) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
+5. 🔒 Closed issue [#1](https://github.com/rishabkumar7/cr-demo-python/issues/1) in [rishabkumar7/cr-demo-python](https://github.com/rishabkumar7/cr-demo-python)
+<!--END_SECTION:activity-->
+
+<br/>
